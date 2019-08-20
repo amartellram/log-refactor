@@ -1,6 +1,6 @@
-#Refactor Log
+# Refactor Log
 
-##Consideraciones
+## Consideraciones
 Se consideró lo siguiente:
 Dividir el método de log y la lógica en general para no centralizar la complejidad.
 Eliminar variables que no se usan.
